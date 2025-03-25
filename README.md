@@ -2,7 +2,7 @@
 
 ### This quiz is designed to make learning fun with exciting questions on different topics and to test knowledge! 🌟
 
-🚀 This *Interactive Quiz Website* is designed to challenge users with multiple-choice questions while providing an engaging experience through smooth animations, instant scoring, and an automatic timer.
+🚀 This fun and engaging quiz application is designed to make learning enjoyable for kids with colorful visuals, cartoons, exciting questions and also to test their knowledge!
 
 ---
 
