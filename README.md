@@ -21,8 +21,8 @@
 ### 🏠 Login Page  
 ![Login Page](https://raw.githubusercontent.com/dhanushrichandrasekar/Quiz/main/loginPage.png)
 
-### ❓ Quiz Questions 
-![Quiz Interface](https://raw.githubusercontent.com/dhanushrichandrasekar/Quiz/main/quizInterface.png)
+### ❓ Quiz Questions Interface
+![Question Page ](https://github.com/dhanushrichandrasekar/Quiz/blob/8bc54a77482483b72a4547ee38196844b5c53973/questionPage.png)
 
 ### 🏆 Result Page  
 ![Result Page](https://raw.githubusercontent.com/dhanushrichandrasekar/Quiz/main/resultPage.png)
