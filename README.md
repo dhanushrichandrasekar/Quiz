@@ -25,7 +25,7 @@
 ![Question Page ](https://github.com/dhanushrichandrasekar/Quiz/blob/8bc54a77482483b72a4547ee38196844b5c53973/questionPage.png)
 
 ### 🏆 Result Page  
-![Result Page](https://raw.githubusercontent.com/dhanushrichandrasekar/Quiz/main/resultPage.png)
+![Result Page](https://github.com/dhanushrichandrasekar/Quiz/blob/689471f8d024176daf406c22ea2cc1081a98b751/makethingsHappen.png)
 
 ---
 
