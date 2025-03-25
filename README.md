@@ -13,7 +13,7 @@
 ✅ *Automatic Submission After 50 Seconds* ⏳  
 ✅ *Retry Option to Improve Scores* 🔄  
 ✅ *Smooth Animations for Better UX* 🎬  
-
+fullMarks.png
 ---
 
 ## 💡 How It Works  
