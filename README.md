@@ -1,4 +1,4 @@
-# 🎯 Interactive Quiz Website
+# 🎯 Interactive Quiz Website for Kids
 
 ### 🧠 Test Your Knowledge with a Fun & Engaging Quiz!  
 
