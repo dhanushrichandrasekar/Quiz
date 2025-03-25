@@ -1,7 +1,7 @@
 # 🎯 Interactive Quiz Website for Kids
 
 ### This quiz is designed to make learning fun with exciting questions and to test knowledge! 🌟
-🚀 The Quiz App makes learning fun for kids with exciting questions on General Knowledge! Featuring colorful visuals, playful cartoons, and instant feedback, it creates an engaging and enjoyable experience while testing their knowledge. 🌟
+🚀 Featuring colorful visuals, playful cartoons, and instant feedback, it creates an engaging and enjoyable experience while testing their knowledge. 🌟
 
 ---
 
