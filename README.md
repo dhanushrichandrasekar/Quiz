@@ -1,13 +1,13 @@
 # 🎯 Interactive Quiz Website for Kids
 
-### 🧠 Test Your Knowledge with a Fun & Engaging Quiz!  
+### This quiz is designed to make learning fun with exciting questions on different topics and to test knowledge! 🌟
 
 🚀 This *Interactive Quiz Website* is designed to challenge users with multiple-choice questions while providing an engaging experience through smooth animations, instant scoring, and an automatic timer.
 
 ---
 
 ## 🔹 Features  
-✅ *Simple & Intuitive Design* ✨  
+✅ Simple & Intuitive Design with Cartoons 🎨🐰
 ✅ *Instant Score Calculation* 📊  
 ✅ *Personalized Performance Feedback* 🏆  
 ✅ *Automatic Submission After 50 Seconds* ⏳  
