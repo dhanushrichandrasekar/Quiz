@@ -16,6 +16,19 @@
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Login Page  
+![Login Page](https://raw.githubusercontent.com/dhanushrichandrasekar/Quiz/main/loginPage.png)
+
+### ❓ Quiz Questions 
+![Quiz Interface](https://raw.githubusercontent.com/dhanushrichandrasekar/Quiz/main/quizInterface.png)
+
+### 🏆 Result Page  
+![Result Page](https://raw.githubusercontent.com/dhanushrichandrasekar/Quiz/main/resultPage.png)
+
+---
+
 ## 💡 How It Works  
 
 ### 🏁 1. Start the Quiz  
