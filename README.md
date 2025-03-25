@@ -16,7 +16,7 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots of Quiz App
 
 ### 🏠 Login Page  
 ![Login Page](https://raw.githubusercontent.com/dhanushrichandrasekar/Quiz/main/loginPage.png)
@@ -27,6 +27,7 @@
 ### 🏆 Result Page  
 ![Score- Low](https://github.com/dhanushrichandrasekar/Quiz/blob/689471f8d024176daf406c22ea2cc1081a98b751/makethingsHappen.png)
 ![Score- Medium](https://github.com/dhanushrichandrasekar/Quiz/blob/42fe9f7871f3ad7af9b10a0006ab6ffd1c2d8ddf/tryHard.png)
+![Score- High](https://github.com/dhanushrichandrasekar/Quiz/blob/919907f6a766bd793a1dc2dcbba8874789f44500/fullMarks.png)
 
 ---
 
