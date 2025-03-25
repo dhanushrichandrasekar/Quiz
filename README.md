@@ -34,7 +34,7 @@
 ## 📸 Video of Quiz App
 
 ### 📽️ Complete Demo
-![Quiz App Demo]( https://github.com/dhanushrichandrasekar/Quiz/blob/c5bf8d658591c307dbe8fc1ddaa6320d804b218b/quizDemo.mp4
+https://github.com/dhanushrichandrasekar/Quiz/blob/c5bf8d658591c307dbe8fc1ddaa6320d804b218b/quizDemo.mp4
 
 ---
 
